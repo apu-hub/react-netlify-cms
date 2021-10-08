@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import { useState } from "react";
+// import { useState } from "react";
 import data from '../assets/posts.json';
 
 function Main() {
